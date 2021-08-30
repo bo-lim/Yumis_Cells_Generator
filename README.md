@@ -16,3 +16,11 @@
 > There are many pre-trained model with famous and large datasets ( FFHQ, AFHQ, CelebA-HQ ... ). However, in reality, it is very difficult to collect good datasets of interest.<br/>
 > We trained small datasets with popular Webtoon 'Yumi's Cells'. Then, We generated Cells' images and compared various stylegan models.
 
+## Results
+
+## Related Projects
+> StyleGAN1 : https://arxiv.org/abs/1812.04948
+> StyleGAN2 : https://arxiv.org/abs/1912.04958
+> FreezeD   : https://arxiv.org/abs/2002.10964
+> FreezeG   : https://github.com/bryandlee/FreezeG
+> StyleMapGAN : https://arxiv.org/abs/2104.14754
