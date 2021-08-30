@@ -39,6 +39,17 @@
 
 <img src="https://user-images.githubusercontent.com/55435898/131364273-558ab9d4-3a17-4272-88ad-0e1be1059307.png" height="550">
 
+- local editing ( Synthesized )
+
+![2](https://user-images.githubusercontent.com/55435898/131364747-6d8bf621-1261-4029-ab4f-4fbc61cdf4d9.png) 
+![2](https://user-images.githubusercontent.com/55435898/131364779-54573a85-714a-4917-8d6e-182d9aa4f439.png)
+
+=> 
+
+![2](https://user-images.githubusercontent.com/55435898/131364810-83df7342-a958-4216-b1c5-dcdb0cd370c5.png)
+
+
+
 
 ## Related Projects
 > StyleGAN1 : https://arxiv.org/abs/1812.04948 <br/>
