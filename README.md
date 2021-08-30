@@ -20,7 +20,7 @@
 ## Short Results
 ### StyleGAN + FreezeD
 
-![image](https://user-images.githubusercontent.com/55435898/131355830-17986813-7344-4e9a-a9ce-f12a9118ed64.png)
+![050000](https://user-images.githubusercontent.com/55435898/131364139-3725b131-23cb-4c68-bfe4-c9113093638c.png)
 
 ### StyleGAN2
 
@@ -37,7 +37,7 @@
 
 ### StyleMapGAN
 
-![image](https://user-images.githubusercontent.com/55435898/131357354-cf02d3ed-c3ff-4208-b766-199a034c6a32.png)
+<img src="https://user-images.githubusercontent.com/55435898/131364273-558ab9d4-3a17-4272-88ad-0e1be1059307.png" height="550">
 
 
 ## Related Projects
