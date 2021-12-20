@@ -8,8 +8,9 @@
 > [최명균](https://github.com/chunccc1004) : Chung-ang Univ. E.E<br/>
 > in CUAI 2021 Conference
 
-> Short Paper <br/>
-> Video <br/>
+> Short Paper : [2021_컨퍼런스_shortpaper.pdf](https://github.com/bo-lim/Yumis_Cells_Generator/files/7743478/2021_._shortpaper.pdf)
+
+<br/>
 
 ## Abstract
 > GAN is hard to training model with less datasets. Also, it takes many time. <br/>
